@@ -1,9 +1,14 @@
 ## Установка
 git clone https://github.com/balguzh1nov/laravel-jwt
+
 cd laravelauth
+
 composer install
+
 Создайте базу данных MySQL с именем, указанным в файле .env
+
 Выполните миграцию: php artisan migrate
+
 Запустите php artisan serve
 
 ## Демо
